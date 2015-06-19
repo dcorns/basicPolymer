@@ -1,0 +1,20 @@
+{
+  "name": "basicPolymer",
+  "version": "0.0.0",
+  "authors": [
+    "Dale Corns <drcorns@hotmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~1.0.4",
+    "iron-elements": "polymerelements/iron-elements#~1.0.0",
+    "paper-elements": "polymerelements/paper-elements#~1.0.1"
+  }
+}
